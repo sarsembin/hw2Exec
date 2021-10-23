@@ -2,3 +2,7 @@ github.com/sarsembin/hw2Libs v1.0.0 h1:WOcVmeOfxDc+hBg/eAimo+Ynmyu66d5S0fG/1zx4k
 github.com/sarsembin/hw2Libs v1.0.0/go.mod h1:J0p8NJA63tNeCM9+LtknPVLTdErEe5Oh1xC6FrbLoic=
 github.com/sarsembin/hw2Libs v1.0.1 h1:inZ3SakWJ3LTlTS2E3Otk6CbelyK+Gq2C08TL7QhaBk=
 github.com/sarsembin/hw2Libs v1.0.1/go.mod h1:J0p8NJA63tNeCM9+LtknPVLTdErEe5Oh1xC6FrbLoic=
+github.com/sarsembin/hw2Libs v1.0.2 h1:MekLFFarCMW+XHRJY6Is3ERHir3McIntXA3fZL720b8=
+github.com/sarsembin/hw2Libs v1.0.2/go.mod h1:v20rIqRfJ0whPfsBb/9xnv7/Z6SJOjSEjuEs9zmunMc=
+github.com/twharmon/gouid v0.3.0 h1:IQ6Zx0ozy2PCNdPNZ/PLjN+Z6BFPUbELq0/SL0sxCJE=
+github.com/twharmon/gouid v0.3.0/go.mod h1:Ruorlc0y7P3Dy3IwLks8m6Rt96O+inLQO3El93ShqdU=
