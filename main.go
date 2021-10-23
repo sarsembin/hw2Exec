@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/sarsembin/hw2Libs"
+	libs "github.com/sarsembin/hw2Libs"
 )
 
 func main() {
-	fmt.Println(hw2Libs.RegisterFlip("AbObUs"))
+	fmt.Println(libs.RegisterFlip("AbObUs"))
+	fmt.Println(libs.SquareRoot(49.0))
 }
